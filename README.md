@@ -15,6 +15,10 @@
 
 A Chrome dino-runner clone, reskinned for DevOps life — instead of jumping cacti, you're a runaway server bot dodging bugs in production. Built as a single self-contained HTML file: no build step, no dependencies, no server required.
 
+<p align="center">
+  <img src="robot-ops-preview.gif" alt="ROBOT.OPS gameplay preview" width="600" />
+</p>
+
 **🎮 [Play it live →](https://jasamandehvary.github.io/robot-runner/)**
 
 ## Controls
